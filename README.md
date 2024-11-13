@@ -5,8 +5,8 @@
 ## 🧩 Technical Skills
 - **Languages:** Python, C#, TypeScript
 - **Frameworks & Libraries:** PySide2/PyQt, Unity, ShotGrid Toolkit (TK), Svelte, React
-- **Pipeline & Tools:** Design of VFX and 3D pipelines, automation tools
-- **DevOps & Version Control:** Docker, Git, Rez
+- **Skills:** Design of VFX and 3D pipelines, automation tools
+- **Packages management & Version Control:** Docker, Git, Rez
 - **3D and VFX Tools:** Maya, Nuke, Houdini, Blender, Photoshop, Substance
 
 ---
@@ -23,7 +23,6 @@
 ## 🎯 Work Philosophy & Methods
 - **Software Craftsmanship:** Adherence to clean code, SOLID principles, hexagonal architecture, and test-driven development
 - **UI/UX Design:** User-centered design for seamless, intuitive experiences in production tool interfaces
-- **Remote Work:** Working remotely since 2020
 
 ---
 
@@ -35,7 +34,7 @@ Passionate about **real-time 3D**, **AR/VR**, and **generative AI** applications
 ## 💼 Professional Experience
 - **Python Developer & Technical Director** | *The Mill & MPC Paris*
    - Designed VFX pipeline tools in Python and automated tasks
-   - UI/UX design
+   - UI/UX design and user centered conception
 
 - **Python Developer & Technical Director** | *Fix Studio*
    - Worked on 3D pipeline tools in Python and automated tasks
