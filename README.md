@@ -4,19 +4,10 @@
 
 ## 🧩 Technical Skills
 - **Languages:** Python, C#, TypeScript
-- **Frameworks & Libraries:** PySide2/PyQt, Unity, ShotGrid Toolkit (TK), Svelte, React
+- **Frameworks & Libraries:** PySide2/PyQt, Unity, ShotGrid Toolkit (TK), Svelte, React, FastAPI, Django
 - **Skills:** Design of VFX and 3D pipelines, automation tools
 - **Packages management & Version Control:** Docker, Git, Rez
 - **3D and VFX Tools:** Maya, Nuke, Houdini, Blender, Photoshop, Substance
-
----
-
-## 🚀 Current Projects
-### 1. **Fractal Rift** - Turn-Based Strategy Game (developed as part of my studies)
-   - **Objective:** Create an innovative strategy game set in a heroic fantasy universe
-   - **Achievements:** Grid-based unit management, implementation of interactions and movement optimization, main game loop
-   - **Technologies Used:** Unity, C#, Blender
-   - **Environment:** Developed in Unity 6 with Rider as the IDE
 
 ---
 
@@ -28,6 +19,15 @@
 
 ## ✨ Interests & Tech Watch
 Passionate about **real-time 3D**, **AR/VR**, and **generative AI** applications in VFX, with a strong interest in innovation and open-source technologies.
+
+---
+
+## 🚀 Current Projects
+### 1. **Fractal Rift** - Turn-Based Strategy Game (developed as part of my studies)
+   - **Objective:** Create an innovative strategy game set in a heroic fantasy universe
+   - **Achievements:** Grid-based unit management, implementation of interactions and movement optimization, main game loop
+   - **Technologies Used:** Unity, C#, Blender
+   - **Environment:** Developed in Unity 6 with Rider as the IDE
 
 ---
 
