@@ -23,7 +23,7 @@ Passionate about **real-time 3D**, **AR/VR**, and **generative AI** applications
 ---
 
 ## 🚀 Current Projects
-### 1. **Fractal Rift** - Turn-Based Strategy Game (developed as part of my studies)
+### 1. **[Fractal Rift](https://github.com/Kijaru/etna_gpe)** - Turn-Based Strategy Game (developed as part of my studies)
    - **Objective:** Create an innovative strategy game set in a heroic fantasy universe
    - **Achievements:** Grid-based unit management, implementation of interactions and movement optimization, main game loop
    - **Technologies Used:** Unity, C#, Blender
